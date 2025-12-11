@@ -1,7 +1,7 @@
 {
     "id" : "io.github.Samuel_Schlemper_Schlemuel.SignWriter",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "46",
+    "runtime-version" : "49",
     "sdk" : "org.gnome.Sdk",
     "command" : "signwriter",
     "finish-args" : [
