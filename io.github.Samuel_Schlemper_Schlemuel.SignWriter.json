@@ -1,11 +1,10 @@
 {
     "id" : "io.github.Samuel_Schlemper_Schlemuel.SignWriter",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "49",
+    "runtime-version" : "50",
     "sdk" : "org.gnome.Sdk",
     "command" : "signwriter",
     "finish-args" : [
-        "--share=network",
         "--share=ipc",
         "--socket=fallback-x11",
         "--device=dri",
@@ -31,7 +30,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/Samuel-Schlemper-Schlemuel/SignWriter.git",
-                    "commit": "726e406f259c0e4680419cbe4a56caf72a78b16f"
+                    "commit": "e7f94cebd1fa4d1dbf05f959ac372ccc44f3e9cc"
                 }
             ]
         }
